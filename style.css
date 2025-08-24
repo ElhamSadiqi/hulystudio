@@ -1768,6 +1768,23 @@ body{
     color: rgba(255, 255, 255, 0.5);
 }
 
+@media (max-width: 600px) {
+
+    .sync-text-div{
+        width: 800px;
+    }
+
+    .vidoe-call-text-last{
+        width: 1000px;
+    }
+
+    .towWAy-milestone-div{
+        margin-left: 40px;
+        width: 300px;
+    }
+   
+}
+
 
 
 
